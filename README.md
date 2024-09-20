@@ -5,6 +5,7 @@ springboot+vue校园二手物品交易前端部分,Vue+ElementUI
 
 #### 软件架构
 软件架构说明
+Vue+ElementUI
 
 
 #### 安装教程
@@ -15,9 +16,9 @@ springboot+vue校园二手物品交易前端部分,Vue+ElementUI
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  使用工具Visual Studio Code
+2.  使用命令 npm install 来添加依赖
+3.  使用命令 npm run dev 启动项目
 
 #### 参与贡献
 
